@@ -1,0 +1,26 @@
+{
+  "name": "visualization",
+  "version": "1.0.0",
+  "description": "data visualization",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Two-Ftry/visualization.git"
+  },
+  "keywords": [
+    "d3",
+    "visualization"
+  ],
+  "author": "jianfeng_huang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Two-Ftry/visualization/issues"
+  },
+  "homepage": "https://github.com/Two-Ftry/visualization#readme",
+  "dependencies": {
+    "d3": "^4.10.2"
+  }
+}
